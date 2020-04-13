@@ -1,0 +1,13 @@
+.link {
+  color: #fff;
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-top: 7px;
+  margin-right: 10px !important;
+}
+
+.icon {
+  margin-bottom: -5px;
+}
